@@ -99,7 +99,6 @@ body {
         height: 200px;
         width: 200px;
     }
-    
     .about {
         grid-area: 2/1/last-line/last-line;
     }
