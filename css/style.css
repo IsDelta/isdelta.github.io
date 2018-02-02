@@ -58,7 +58,16 @@ body {
 .skills li{
     margin-bottom: 0;;
 }
+.links {
+    max-width: 800px;
+    margin: 0 auto;
+}
 .links a{
+    margin: 0 10px;
+    display: inline-block;
     font-size: 50px;
+    color: #547db1;
+}
+.links a:hover{
     color: #2f435b;
 }
